@@ -1,0 +1,5 @@
+# Git ignore file
+# .gitignore
+*.pyc
+__pycache__/
+mood_tracker.db
